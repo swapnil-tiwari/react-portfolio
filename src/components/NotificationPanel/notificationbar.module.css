@@ -1,0 +1,10 @@
+.notificationBar
+{
+    width:60%;
+     margin-left: auto;
+}
+.notificationContainer
+{
+    display: grid;
+    grid-auto-flow: column;
+}
