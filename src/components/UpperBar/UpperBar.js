@@ -6,11 +6,7 @@ import NotificationBar from '../NotificationPanel/notificationpanel';
 
 function upperbar(props)
 {
-    const notificationBarElem=React.createRef();
-    function activateNotification() {
     
-        notificationBarElem.current.setStatus();
-    }
     
     return (
      

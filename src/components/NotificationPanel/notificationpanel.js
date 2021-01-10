@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import styles from './notificationbar.module.css'
+
 class NotificationBar extends Component
 {
     constructor()
